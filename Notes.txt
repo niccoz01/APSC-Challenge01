@@ -1,0 +1,7 @@
+README is detailed.
+Correct use of GitHub.
+
+I would have expected you to let the user choose the parameters runtime instead of during the compilation, using GetPot/muparser.
+
+You should not define structs or functions inside the main.
+You could have used template functions to choose among the different strategies for the computation of the learning rate.
